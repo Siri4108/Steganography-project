@@ -5,15 +5,13 @@ This project demonstrates a simple yet effective method of hiding secret message
 
 Features:
 
+
  1.Hide secret messages within images using pixel manipulation.
+ 
  2.Passcode protection for secure decryption.
+ 
  3.Lightweight and fast processing with minimal image distortion.
+ 
  4.Works on multiple platforms (Windows, Linux, macOS).
+ 
  5.Uses OpenCV for image handling and manipulation.
-
-Technologies Used:
-
-*Python (Programming Language)
-*OpenCV (cv2) (Image Processing)
-*OS Module (File Handling & Execution)
-*String Library (Character Mapping)
